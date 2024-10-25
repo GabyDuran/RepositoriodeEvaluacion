@@ -1,0 +1,3 @@
+en las lecciones de PHP usamos un lenguaje de codigo en donde nos facilita a nosotros para que el codigo se ejecute en un servidor
+para crear un procedimiento de cualquier tipo de texto  Se puede acceder al resultado del programa de PHP con un navegador viendo la página de PHP
+a través del servidor 
